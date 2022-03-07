@@ -1,5 +1,11 @@
 # remark-preset-lint-starstuff
 
+[![npm](https://img.shields.io/npm/v/remark-preset-lint-starstuff)](https://www.npmjs.com/package/remark-preset-lint-starstuff)
+[![npm](https://img.shields.io/npm/dw/remark-preset-lint-starstuff)](https://www.npmjs.com/package/remark-preset-lint-starstuff)
+[![Codecov](https://img.shields.io/codecov/c/github/keplersj/remark-preset-lint-starstuff)](https://app.codecov.io/gh/keplersj/remark-preset-lint-starstuff)
+[![Bundle Size](https://img.shields.io/bundlephobia/min/remark-preset-lint-starstuff)](https://bundlephobia.com/package/remark-preset-lint-starstuff)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://www.conventionalcommits.org/)
+
 Opinionated, yet simple preset for `remark-lint`
 
 ## Philosophy
@@ -28,4 +34,4 @@ Run remark. Either [`remark-cli`](https://github.com/remarkjs/remark/tree/master
 
 ## License
 
-Copyright 2019 Kepler Sticka-Jones. Licensed ISC
+Copyright 2019-2022 [Kepler Sticka-Jones](https://keplersj.com/). Licensed ISC
