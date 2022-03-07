@@ -19,6 +19,10 @@
     "md"
   ],
   "author": "Kepler Sticka-Jones <kepler@stickajones.org>",
+  "funding": {
+    "type": "github-sponsors",
+    "url": "https://github.com/sponsors/keplersj"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/keplersj/remark-preset-lint-starstuff/issues"
