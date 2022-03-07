@@ -2,6 +2,7 @@
   "name": "remark-preset-lint-starstuff",
   "version": "0.0.0-development",
   "description": "Opinionated, yet simple config for remark-lint",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "jest"
