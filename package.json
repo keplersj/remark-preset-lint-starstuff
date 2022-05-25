@@ -38,7 +38,7 @@
     "remark-preset-prettier": "^1.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.0.0",
+    "@commitlint/cli": "17.0.1",
     "@commitlint/config-conventional": "17.0.0",
     "eslint": "8.16.0",
     "eslint-config-starstuff": "1.5.11",
